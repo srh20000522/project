@@ -1,0 +1,173 @@
+{
+   "songlist": {
+      "top": [{
+            "title": "语句",
+            "list": ["华语", "欧美", "粤语", "日语", "韩语", "更多"],
+            "name": "el-icon-chat-line-round"
+         },
+         {
+            "title": "流派",
+            "list": ["流行", "摇滚", "民谣", "电子", "影视原声", "ACG", "新世纪", "爵士", "更多"],
+            "name": "el-icon-odometer"
+         },
+         {
+            "title": "主题",
+            "list": ["流行", "摇滚", "民谣", "电子", "影视原声", "ACG", "新世纪", "爵士", "更多"],
+            "name": "el-icon-orange"
+         },
+         {
+            "title": "情感",
+            "list": ["流行", "摇滚", "民谣", "电子", "影视原声", "ACG", "新世纪", "爵士", "更多"],
+            "name": "el-icon-cloudy"
+         },
+         {
+            "title": "场景",
+            "list": ["流行", "摇滚", "民谣", "电子", "影视原声", "ACG", "新世纪", "爵士", "更多"],
+            "name": "el-icon-umbrella"
+         }
+      ],
+      "listAll": [{
+            "imgSrc": "https://img01.dmhmusic.com/0105/M00/BB/65/ChR45WIvDfCAQ7ceAAL3bolItdc593.jpg@w_300,h_300",
+            "name": "「春分」听，是春天的旋律"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0101/M00/B8/62/ChR45WIcaeuAWjWVAAC0QjBDqX8448.jpg@w_300,h_300",
+            "name": "白色情人节：那些单向奔赴的爱情"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0104/M00/B0/79/ChR45WIfGnqAfnyfAANWp-x6lZw030.jpg@w_300,h_300",
+            "name": "『春日物语』柔风和煦，春野烂漫"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0105/M00/BB/65/ChR45WIvDfCAQ7ceAAL3bolItdc593.jpg@w_300,h_300",
+            "name": "「春分」听，是春天的旋律"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0101/M00/B8/62/ChR45WIcaeuAWjWVAAC0QjBDqX8448.jpg@w_300,h_300",
+            "name": "白色情人节：那些单向奔赴的爱情"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0104/M00/B0/79/ChR45WIfGnqAfnyfAANWp-x6lZw030.jpg@w_300,h_300",
+            "name": "『春日物语』柔风和煦，春野烂漫"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0105/M00/BB/65/ChR45WIvDfCAQ7ceAAL3bolItdc593.jpg@w_300,h_300",
+            "name": "「春分」听，是春天的旋律"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0101/M00/B8/62/ChR45WIcaeuAWjWVAAC0QjBDqX8448.jpg@w_300,h_300",
+            "name": "白色情人节：那些单向奔赴的爱情"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0104/M00/B0/79/ChR45WIfGnqAfnyfAANWp-x6lZw030.jpg@w_300,h_300",
+            "name": "『春日物语』柔风和煦，春野烂漫"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0105/M00/BB/65/ChR45WIvDfCAQ7ceAAL3bolItdc593.jpg@w_300,h_300",
+            "name": "「春分」听，是春天的旋律"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0101/M00/B8/62/ChR45WIcaeuAWjWVAAC0QjBDqX8448.jpg@w_300,h_300",
+            "name": "白色情人节：那些单向奔赴的爱情"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0104/M00/B0/79/ChR45WIfGnqAfnyfAANWp-x6lZw030.jpg@w_300,h_300",
+            "name": "『春日物语』柔风和煦，春野烂漫"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0105/M00/BB/65/ChR45WIvDfCAQ7ceAAL3bolItdc593.jpg@w_300,h_300",
+            "name": "「春分」听，是春天的旋律"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0101/M00/B8/62/ChR45WIcaeuAWjWVAAC0QjBDqX8448.jpg@w_300,h_300",
+            "name": "白色情人节：那些单向奔赴的爱情"
+         },
+         {
+            "imgSrc": "https://img01.dmhmusic.com/0104/M00/B0/79/ChR45WIfGnqAfnyfAANWp-x6lZw030.jpg@w_300,h_300",
+            "name": "『春日物语』柔风和煦，春野烂漫"
+         }
+      ],
+      "recommend": [
+         "https://img5.img.9xiu.com/upload/roomimg_web/2022/03/09/606010452053030itxit88gf_317x317.jpg",
+         "https://img4.img.9xiu.com/upload/roomimg_web/2022/03/07/82426764085126un7idp5d07_317x317.jpg",
+         "https://img8.img.9xiu.com/upload/roomimg_web/2022/03/08/87449338110954sh2e5k4va8_317x317.jpg",
+         "https://img2.img.9xiu.com/upload/roomimg_web/2022/01/21/638929722218349lnylussas_317x317.jpg"
+      ]
+   },
+   "singger": {
+      "zimus": [
+         [
+            "A", "B", "C", "D", "E", "F", "G", "H", "I", "G", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "#"
+         ],
+         ["内地", "港台", "欧美", "韩国", "日本", "本地"],
+         ["男", "女", "组合", "乐队"]
+      ],
+      "img": [{
+            "img": "https://img01.dmhmusic.com/0206/M00/70/D9/ChR461tM64yARSFhAADEOxmuddA496.jpg@w_200,h_200",
+            "title": "大张伟"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0206/M00/73/60/ChR461tNCq6ATOwZAAG214sWjCA734.jpg@w_200,h_200",
+            "title": "周深"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0206/M00/70/D3/ChR47FtM6zuAd4cPAALIQN9yml0668.jpg@w_200,h_200",
+            "title": "高天佐Trouble.Z"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0210/M00/69/F9/ChR47FtNCsyAFJk-AALSayKzO04284.jpg@w_200,h_200",
+            "title": "杜宣达"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0206/M00/70/D9/ChR461tM64yARSFhAADEOxmuddA496.jpg@w_200,h_200",
+            "title": "大张伟"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0105/M00/A9/C2/ChR45WHuIkWACQ4DAAI2iavQ-2g265.jpg@w_200,h_200",
+            "title": "大张伟"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0210/M00/69/F9/ChR47FtNCsyAFJk-AALSayKzO04284.jpg@w_200,h_200",
+            "title": "大张伟"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0206/M00/70/D3/ChR47FtM6zuAd4cPAALIQN9yml0668.jpg@w_200,h_200",
+            "title": "大张伟"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0206/M00/70/E2/ChR47FtM6_qAYdtpAAJgVE2U6UI268.jpg@w_200,h_200",
+            "title": "大张伟"
+         },
+         {
+            "img": "https://img01.dmhmusic.com/0206/M00/70/D9/ChR461tM64yARSFhAADEOxmuddA496.jpg@w_200,h_200",
+            "title": "大张伟"
+         }
+      ],
+      "name": [
+         [
+            "李宗远", "Jason", "李宇春", "八—了·才才夕·多工二了", "By2", "橘子海(Orange Ocean)"
+         ],
+         [
+            "王力宏", "张航", "蔡健雅", "戚薇", "华语群星", "橘子海OrangeOcean"
+         ],
+         [
+            "Victor Music Arts, Inc.", "洛天依", "何曼婷", "果味VC", "陈善仪", "何曼婷"
+         ],
+         [
+            "VARIOUS", "陈小春", "洛天依", "何曼婷", "DOMS", "何曼婷"
+         ],
+         [
+            "——节", "", "何曼婷", "窒息乐队", "卓依婷", "陈善仪", "张碧晨"
+         ],
+         [
+            "卓依婷", "", "何曼婷", "果味VC", "张航", "何曼婷", "窒息乐队"
+         ]
+      ]
+   },
+   "data": [
+      "https://img6.img.9xiu.com/upload/roomimg_web/2022/02/25/750572361445283wmjlpcmch_317x317.jpg",
+      "https://img0.img.9xiu.com/upload/roomimg_web/2022/02/17/10000212736et6x62bnv4_317x317.png",
+      "https://img0.img.9xiu.com/upload/roomimg_web/2021/10/12/10000160601y6cvtjkk7g_317x317.png",
+      "https://img4.img.9xiu.com/upload/roomimg_web/2022/03/09/66230504230547smp5eo3yo2_317x317.jpg"
+   ]
+}
